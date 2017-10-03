@@ -29,3 +29,6 @@ Current projects used in the development and deployment of the Providence Geeks 
 - [website-frontend](https://github.com/ProvidenceGeeks/website-frontend) - UI frontend application for the website project
 - [website-lambda-meetup](https://github.com/ProvidenceGeeks/website-lambda-meetup) - AWS Lambda for periodically retrieving data from the meetup.com API
 - [website-lambda-wordpress](https://github.com/ProvidenceGeeks/website-lambda-wordpress) - AWS Lambda for periodically retrieving blog post data from the PVD Geeks WordPress REST API
+
+## Supplementary Resources
+This is just to test on making changes to github items. 
